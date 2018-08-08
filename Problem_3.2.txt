@@ -1,0 +1,10 @@
+
+Modify the Account class (section 3.3) by adding two instance
+variables containing the customer's name and the account 
+number (both will be string objects). Modify the primary
+constructor for the Account class so that it takes three
+parameters: the balance, the customer's name, and the 
+account number. Add the instance mehtos named getCustomerName
+and getAccountNumber that return the customer's name and the
+account number. Modify the TestAccount (sesction 3.6) so
+it tests the new constructor and the new methods. 
